@@ -6,7 +6,7 @@ package einterfaces
 import (
 	"context"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 type MessageExportInterface interface {

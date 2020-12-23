@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
 )
 
 type permissionTransformation struct {

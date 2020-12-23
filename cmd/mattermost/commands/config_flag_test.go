@@ -10,8 +10,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/adacta-ru/mattermost-server/v5/utils"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 )
 
 func TestConfigFlag(t *testing.T) {

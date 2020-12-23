@@ -3,7 +3,7 @@
 
 package interfaces
 
-import "github.com/adacta-ru/mattermost-server/v5/model"
+import "github.com/adacta-ru/mattermost-server/v6/model"
 
 type ProductNoticesJobInterface interface {
 	MakeWorker() model.Worker

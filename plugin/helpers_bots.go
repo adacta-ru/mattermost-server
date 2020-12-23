@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 )
 
 type ensureBotOptions struct {

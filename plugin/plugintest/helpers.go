@@ -5,8 +5,8 @@
 package plugintest
 
 import (
-	model "github.com/adacta-ru/mattermost-server/v5/model"
-	plugin "github.com/adacta-ru/mattermost-server/v5/plugin"
+	model "github.com/adacta-ru/mattermost-server/v6/model"
+	plugin "github.com/adacta-ru/mattermost-server/v6/plugin"
 	mock "github.com/stretchr/testify/mock"
 )
 

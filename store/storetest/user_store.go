@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
 )
 
 const (

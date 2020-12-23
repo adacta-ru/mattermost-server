@@ -9,8 +9,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
 )
 
 func makeBotWithUser(t *testing.T, ss store.Store, bot *model.Bot) (*model.Bot, *model.User) {

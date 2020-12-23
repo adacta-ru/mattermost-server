@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 )
 
 func ReadTestFile(name string) ([]byte, error) {

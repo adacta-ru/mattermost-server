@@ -23,8 +23,8 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/openpgp"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const mattermostBuildPublicKey = `-----BEGIN PGP PUBLIC KEY BLOCK-----

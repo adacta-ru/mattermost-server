@@ -6,8 +6,8 @@ package app
 import (
 	"net/http"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/services/searchengine"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/services/searchengine"
 )
 
 func (a *App) TestElasticsearch(cfg *model.Config) *model.AppError {

@@ -6,7 +6,7 @@ package docextractor
 import (
 	"io"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
 )
 
 type combineExtractor struct {

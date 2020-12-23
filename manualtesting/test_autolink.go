@@ -6,8 +6,8 @@ package manualtesting
 import (
 	"net/http"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const linkPostText = `

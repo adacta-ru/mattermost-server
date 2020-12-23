@@ -8,8 +8,8 @@ import (
 	"go/ast"
 	"go/token"
 
-	"github.com/adacta-ru/mattermost-server/v5/plugin/checker/internal/asthelpers"
-	"github.com/adacta-ru/mattermost-server/v5/plugin/checker/internal/version"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/checker/internal/asthelpers"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/checker/internal/version"
 )
 
 func checkAPIVersionComments(pkgPath string) (result, error) {

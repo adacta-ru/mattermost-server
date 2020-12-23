@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/plugin"
-	"github.com/adacta-ru/mattermost-server/v5/store"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/plugin"
+	"github.com/adacta-ru/mattermost-server/v6/store"
 )
 
 const minFirstPartSize = 5 * 1024 * 1024 // 5MB

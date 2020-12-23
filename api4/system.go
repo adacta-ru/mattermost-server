@@ -15,11 +15,11 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/adacta-ru/mattermost-server/v5/audit"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/services/cache"
-	"github.com/adacta-ru/mattermost-server/v5/services/upgrader"
+	"github.com/adacta-ru/mattermost-server/v6/audit"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/services/cache"
+	"github.com/adacta-ru/mattermost-server/v6/services/upgrader"
 )
 
 const (

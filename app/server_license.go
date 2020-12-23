@@ -3,7 +3,7 @@
 
 package app
 
-import "github.com/adacta-ru/mattermost-server/v5/model"
+import "github.com/adacta-ru/mattermost-server/v6/model"
 
 func (s *Server) License() *model.License {
 	license, _ := s.licenseValue.Load().(*model.License)

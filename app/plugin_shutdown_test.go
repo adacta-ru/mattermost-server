@@ -24,7 +24,7 @@ func TestPluginShutdownTest(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
 			)
 
 			type MyPlugin struct {
@@ -39,7 +39,7 @@ func TestPluginShutdownTest(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
 			)
 
 			type MyPlugin struct {

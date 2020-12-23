@@ -6,8 +6,8 @@ package commands
 import (
 	"fmt"
 
-	"github.com/adacta-ru/mattermost-server/v5/config"
-	"github.com/adacta-ru/mattermost-server/v5/store/sqlstore"
+	"github.com/adacta-ru/mattermost-server/v6/config"
+	"github.com/adacta-ru/mattermost-server/v6/store/sqlstore"
 
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"

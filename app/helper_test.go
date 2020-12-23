@@ -14,15 +14,15 @@ import (
 
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/config"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
-	"github.com/adacta-ru/mattermost-server/v5/store/localcachelayer"
-	"github.com/adacta-ru/mattermost-server/v5/store/sqlstore"
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest/mocks"
-	"github.com/adacta-ru/mattermost-server/v5/testlib"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/config"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
+	"github.com/adacta-ru/mattermost-server/v6/store/localcachelayer"
+	"github.com/adacta-ru/mattermost-server/v6/store/sqlstore"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest/mocks"
+	"github.com/adacta-ru/mattermost-server/v6/testlib"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 	"github.com/stretchr/testify/require"
 )
 

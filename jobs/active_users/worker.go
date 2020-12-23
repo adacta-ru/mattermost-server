@@ -6,11 +6,11 @@ package active_users
 import (
 	"net/http"
 
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/jobs"
-	tjobs "github.com/adacta-ru/mattermost-server/v5/jobs/interfaces"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/jobs"
+	tjobs "github.com/adacta-ru/mattermost-server/v6/jobs/interfaces"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const (

@@ -6,8 +6,8 @@ package active_users
 import (
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const (

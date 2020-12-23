@@ -14,8 +14,8 @@ import (
 	"net/url"
 	"path/filepath"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/services/httpservice"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/services/httpservice"
 	"willnorris.com/go/imageproxy"
 )
 

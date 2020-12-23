@@ -4,8 +4,8 @@
 package searchlayer
 
 import (
-	model "github.com/adacta-ru/mattermost-server/v5/model"
-	store "github.com/adacta-ru/mattermost-server/v5/store"
+	model "github.com/adacta-ru/mattermost-server/v6/model"
+	store "github.com/adacta-ru/mattermost-server/v6/store"
 )
 
 type SearchTeamStore struct {

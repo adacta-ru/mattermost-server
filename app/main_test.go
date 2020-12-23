@@ -6,8 +6,8 @@ package app
 import (
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/testlib"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/testlib"
 )
 
 var mainHelper *testlib.MainHelper

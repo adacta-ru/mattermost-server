@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/adacta-ru/mattermost-server/v5/app/plugin_api_tests"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/plugin"
+	"github.com/adacta-ru/mattermost-server/v6/app/plugin_api_tests"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/plugin"
 )
 
 type MyPlugin struct {

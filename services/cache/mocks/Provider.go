@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	cache "github.com/adacta-ru/mattermost-server/v5/services/cache"
+	cache "github.com/adacta-ru/mattermost-server/v6/services/cache"
 	mock "github.com/stretchr/testify/mock"
 )
 

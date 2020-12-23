@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 // These assignments are part of the wire protocol used to trigger hook events in plugins.

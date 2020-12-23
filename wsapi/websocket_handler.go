@@ -6,10 +6,10 @@ package wsapi
 import (
 	"net/http"
 
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 )
 
 func (api *API) ApiWebSocketHandler(wh func(*model.WebSocketRequest) (map[string]interface{}, *model.AppError)) webSocketHandler {

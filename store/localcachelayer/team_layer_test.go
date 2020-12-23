@@ -6,8 +6,8 @@ package localcachelayer
 import (
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest"
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest/mocks"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

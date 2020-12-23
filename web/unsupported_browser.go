@@ -8,8 +8,8 @@ import (
 
 	"github.com/avct/uasurfer"
 
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 )
 
 // MattermostApp describes downloads for the Mattermost App

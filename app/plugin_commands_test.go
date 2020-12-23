@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 	"github.com/stretchr/testify/require"
 )
 
@@ -38,8 +38,8 @@ func TestPluginCommand(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
-				"github.com/adacta-ru/mattermost-server/v5/model"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/model"
 			)
 
 			type configuration struct {
@@ -119,8 +119,8 @@ func TestPluginCommand(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
-				"github.com/adacta-ru/mattermost-server/v5/model"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/model"
 			)
 
 			type configuration struct {
@@ -226,8 +226,8 @@ func TestPluginCommand(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
-				"github.com/adacta-ru/mattermost-server/v5/model"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/model"
 			)
 
 			type configuration struct {
@@ -291,8 +291,8 @@ func TestPluginCommand(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
-				"github.com/adacta-ru/mattermost-server/v5/model"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/model"
 			)
 
 			type MyPlugin struct {
@@ -336,8 +336,8 @@ func TestPluginCommand(t *testing.T) {
 			package main
 
 			import (
-				"github.com/adacta-ru/mattermost-server/v5/plugin"
-				"github.com/adacta-ru/mattermost-server/v5/model"
+				"github.com/adacta-ru/mattermost-server/v6/plugin"
+				"github.com/adacta-ru/mattermost-server/v6/model"
 			)
 
 			type MyPlugin struct {

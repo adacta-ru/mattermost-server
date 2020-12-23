@@ -4,10 +4,10 @@
 package product_notices
 
 import (
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/jobs"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/jobs"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const (

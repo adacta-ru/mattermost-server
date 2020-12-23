@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 func (api *API) InitWebSocket() {

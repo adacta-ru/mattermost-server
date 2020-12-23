@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	plugin "github.com/hashicorp/go-plugin"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 // The API can be used to retrieve data or perform actions on behalf of the plugin. Most methods

@@ -7,10 +7,10 @@ package mocks
 import (
 	context "context"
 
-	model "github.com/adacta-ru/mattermost-server/v5/model"
+	model "github.com/adacta-ru/mattermost-server/v6/model"
 	mock "github.com/stretchr/testify/mock"
 
-	store "github.com/adacta-ru/mattermost-server/v5/store"
+	store "github.com/adacta-ru/mattermost-server/v6/store"
 
 	time "time"
 )

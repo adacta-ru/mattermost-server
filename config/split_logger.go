@@ -6,7 +6,7 @@ package config
 import (
 	"fmt"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
 )
 
 type splitLogger struct {

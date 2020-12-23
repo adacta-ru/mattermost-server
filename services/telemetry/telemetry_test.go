@@ -18,14 +18,14 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/plugin"
-	"github.com/adacta-ru/mattermost-server/v5/plugin/plugintest"
-	"github.com/adacta-ru/mattermost-server/v5/services/httpservice"
-	"github.com/adacta-ru/mattermost-server/v5/services/searchengine"
-	"github.com/adacta-ru/mattermost-server/v5/services/telemetry/mocks"
-	storeMocks "github.com/adacta-ru/mattermost-server/v5/store/storetest/mocks"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/plugin"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/plugintest"
+	"github.com/adacta-ru/mattermost-server/v6/services/httpservice"
+	"github.com/adacta-ru/mattermost-server/v6/services/searchengine"
+	"github.com/adacta-ru/mattermost-server/v6/services/telemetry/mocks"
+	storeMocks "github.com/adacta-ru/mattermost-server/v6/store/storetest/mocks"
 )
 
 type FakeConfigService struct {

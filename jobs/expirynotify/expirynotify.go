@@ -4,8 +4,8 @@
 package expirynotify
 
 import (
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	tjobs "github.com/adacta-ru/mattermost-server/v5/jobs/interfaces"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	tjobs "github.com/adacta-ru/mattermost-server/v6/jobs/interfaces"
 )
 
 type ExpiryNotifyJobInterfaceImpl struct {

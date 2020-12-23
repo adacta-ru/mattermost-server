@@ -21,12 +21,12 @@ import (
 	"time"
 
 	"github.com/getsentry/sentry-go"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
 
-	"github.com/adacta-ru/mattermost-server/v5/config"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/config"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 	"github.com/stretchr/testify/require"
 )
 

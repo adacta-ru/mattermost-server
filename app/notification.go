@@ -11,11 +11,11 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
-	"github.com/adacta-ru/mattermost-server/v5/utils/markdown"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/markdown"
 	"github.com/pkg/errors"
 )
 

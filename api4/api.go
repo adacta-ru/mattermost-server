@@ -7,10 +7,10 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/adacta-ru/mattermost-server/v5/app"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/services/configservice"
-	"github.com/adacta-ru/mattermost-server/v5/web"
+	"github.com/adacta-ru/mattermost-server/v6/app"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/services/configservice"
+	"github.com/adacta-ru/mattermost-server/v6/web"
 
 	_ "github.com/mattermost/go-i18n/i18n"
 )

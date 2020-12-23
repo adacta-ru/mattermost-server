@@ -9,11 +9,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/adacta-ru/mattermost-server/v5/audit"
-	"github.com/adacta-ru/mattermost-server/v5/config"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/audit"
+	"github.com/adacta-ru/mattermost-server/v6/config"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 )
 
 var writeFilter func(c *Context, structField reflect.StructField) bool

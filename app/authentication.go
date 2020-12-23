@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/services/mfa"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/services/mfa"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 )
 
 type TokenLocation int

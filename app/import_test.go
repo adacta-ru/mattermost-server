@@ -15,9 +15,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 )
 
 func ptrStr(s string) *string {

@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/NYTimes/gziphandler"
-	"github.com/adacta-ru/mattermost-server/v5/web"
+	"github.com/adacta-ru/mattermost-server/v6/web"
 )
 
 type Context = web.Context

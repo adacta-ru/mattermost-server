@@ -10,11 +10,11 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 	"github.com/pkg/errors"
 
-	"github.com/adacta-ru/mattermost-server/v5/utils"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 )
 
 const (

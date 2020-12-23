@@ -10,7 +10,7 @@ import (
 	"unicode"
 
 	"github.com/mattermost/gorp"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
 )
 
 var escapeLikeSearchChar = []string{

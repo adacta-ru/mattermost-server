@@ -12,10 +12,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/adacta-ru/mattermost-server/v5/api4"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
-	"github.com/adacta-ru/mattermost-server/v5/wsapi"
+	"github.com/adacta-ru/mattermost-server/v6/api4"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
+	"github.com/adacta-ru/mattermost-server/v6/wsapi"
 	"github.com/spf13/cobra"
 )
 

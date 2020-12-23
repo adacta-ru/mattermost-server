@@ -3,7 +3,7 @@
 
 package app
 
-import "github.com/adacta-ru/mattermost-server/v5/model"
+import "github.com/adacta-ru/mattermost-server/v6/model"
 
 // Import Data Models
 

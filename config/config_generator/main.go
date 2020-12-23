@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/adacta-ru/mattermost-server/v5/config/config_generator/generator"
+	"github.com/adacta-ru/mattermost-server/v6/config/config_generator/generator"
 )
 
 func main() {

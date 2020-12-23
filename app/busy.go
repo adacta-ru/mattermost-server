@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/einterfaces"
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/einterfaces"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 )
 
 const (

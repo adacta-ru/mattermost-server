@@ -9,7 +9,7 @@ import (
 
 	"fmt"
 
-	"github.com/adacta-ru/mattermost-server/v5/audit"
+	"github.com/adacta-ru/mattermost-server/v6/audit"
 	"github.com/spf13/cobra"
 )
 

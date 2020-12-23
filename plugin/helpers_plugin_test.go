@@ -10,11 +10,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/plugin"
-	"github.com/adacta-ru/mattermost-server/v5/plugin/plugintest"
-	"github.com/adacta-ru/mattermost-server/v5/plugin/plugintest/mock"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/plugin"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/plugintest"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/plugintest/mock"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

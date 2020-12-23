@@ -9,8 +9,8 @@ import (
 	"go/token"
 	"go/types"
 
-	"github.com/adacta-ru/mattermost-server/v5/plugin/checker/internal/asthelpers"
-	"github.com/adacta-ru/mattermost-server/v5/plugin/checker/internal/version"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/checker/internal/asthelpers"
+	"github.com/adacta-ru/mattermost-server/v6/plugin/checker/internal/version"
 
 	"github.com/pkg/errors"
 )

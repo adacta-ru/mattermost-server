@@ -12,9 +12,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/utils/fileutils"
-	"github.com/adacta-ru/mattermost-server/v5/utils/testutils"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/utils/fileutils"
+	"github.com/adacta-ru/mattermost-server/v6/utils/testutils"
 	"github.com/stretchr/testify/require"
 )
 

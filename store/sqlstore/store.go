@@ -21,11 +21,11 @@ import (
 	"github.com/go-sql-driver/mysql"
 	"github.com/lib/pq"
 	"github.com/mattermost/gorp"
-	"github.com/adacta-ru/mattermost-server/v5/einterfaces"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store"
-	"github.com/adacta-ru/mattermost-server/v5/utils"
+	"github.com/adacta-ru/mattermost-server/v6/einterfaces"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store"
+	"github.com/adacta-ru/mattermost-server/v6/utils"
 
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/lib/pq"
@@ -113,7 +113,7 @@ type SqlStoreStores struct {
 
 type SqlStore struct {
 	// rrCounter and srCounter should be kept first.
-	// See https://github.com/adacta-ru/mattermost-server/v5/pull/7281
+	// See https://github.com/adacta-ru/mattermost-server/v6/pull/7281
 	rrCounter      int64
 	srCounter      int64
 	master         *gorp.DbMap

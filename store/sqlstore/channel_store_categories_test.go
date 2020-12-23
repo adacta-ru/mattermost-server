@@ -6,7 +6,7 @@ package sqlstore
 import (
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest"
 )
 
 func TestChannelStoreCategories(t *testing.T) {

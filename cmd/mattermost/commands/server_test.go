@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/config"
-	"github.com/adacta-ru/mattermost-server/v5/jobs"
+	"github.com/adacta-ru/mattermost-server/v6/config"
+	"github.com/adacta-ru/mattermost-server/v6/jobs"
 	"github.com/stretchr/testify/require"
 )
 

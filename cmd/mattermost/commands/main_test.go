@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/api4"
-	"github.com/adacta-ru/mattermost-server/v5/mlog"
-	"github.com/adacta-ru/mattermost-server/v5/testlib"
+	"github.com/adacta-ru/mattermost-server/v6/api4"
+	"github.com/adacta-ru/mattermost-server/v6/mlog"
+	"github.com/adacta-ru/mattermost-server/v6/testlib"
 )
 
 func TestMain(m *testing.M) {

@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/config"
+	"github.com/adacta-ru/mattermost-server/v6/config"
 	"github.com/stretchr/testify/require"
 )
 

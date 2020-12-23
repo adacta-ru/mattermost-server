@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
+	"github.com/adacta-ru/mattermost-server/v6/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

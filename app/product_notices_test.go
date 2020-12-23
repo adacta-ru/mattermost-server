@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/adacta-ru/mattermost-server/v5/model"
-	"github.com/adacta-ru/mattermost-server/v5/store/storetest/mocks"
+	"github.com/adacta-ru/mattermost-server/v6/model"
+	"github.com/adacta-ru/mattermost-server/v6/store/storetest/mocks"
 	"github.com/stretchr/testify/require"
 )
 
